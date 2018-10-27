@@ -1,6 +1,3 @@
-
-
-
 <!doctype html>
 <html>
 
@@ -50,32 +47,32 @@
                       <div class="col-xs-12 social-btns">
 
                         <div class="col-xs-3 col-md-1 col-lg-1 social-btn-holder">
-                          <a href="#" class="btn btn-social btn-block btn-google">
+                          <a href="https://plus.google.com/u/0/?tab=wX" class="btn btn-social btn-block btn-google">
                             <i class="fa fa-google"></i> </a>
                         </div>
 
                         <div class="col-xs-3 col-md-1 col-lg-1 social-btn-holder">
-                          <a href="#" class="btn btn-social btn-block btn-facebook">
+                          <a href="https://www.facebook.com/Syldox" class="btn btn-social btn-block btn-facebook">
                             <i class="fa fa-facebook"></i> </a>
                         </div>
 
                         <div class="col-xs-3 col-md-1 col-lg-1 social-btn-holder">
-                          <a href="#" class="btn btn-social btn-block btn-twitter">
+                          <a href="https://twitter.com/ismailasylla" class="btn btn-social btn-block btn-twitter">
                             <i class="fa fa-twitter"></i> </a>
                         </div>
 
                         <div class="col-xs-3 col-md-1 col-lg-1 social-btn-holder">
-                          <a href="#" class="btn btn-social btn-block btn-linkedin">
+                          <a href="https://www.linkedin.com/in/ismaila-sylla-04377b126/" class="btn btn-social btn-block btn-linkedin">
                             <i class="fa fa-linkedin"></i> </a>
                         </div>
 
                         <div class="col-xs-3 col-md-1 col-lg-1 social-btn-holder">
-                          <a href="#" class="btn btn-social btn-block btn-github">
+                          <a href="https://github.com/Syldox" class="btn btn-social btn-block btn-github">
                             <i class="fa fa-github"></i> </a>
                         </div>
 
                         <div class="col-xs-3 col-md-1 col-lg-1 social-btn-holder">
-                          <a href="#" class="btn btn-social btn-block btn-stackoverflow">
+                          <a href="https://stackoverflow.com/users/6567106/sylla-ismaila" class="btn btn-social btn-block btn-stackoverflow">
                             <i class="fa fa-stack-overflow"></i> </a>
                         </div>
 
@@ -88,7 +85,7 @@
                     <ul class="list-group">
                       <li class="list-group-item">Ismaila Sylla</li>
                       <li class="list-group-item">Software Engineer</li>
-                      <li class="list-group-item">Marines-Tech.dev </li>
+                      <li class="list-group-item">Marines-Corps.dev </li>
                       <li class="list-group-item"><i class="fa fa-phone"></i> +91 8971504253 </li>
                       <li class="list-group-item"><i class="fa fa-envelope"></i> syldox@gmail.com</li>
                     </ul>
@@ -250,13 +247,13 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Masters in Computer Science and Engineering</td>
-                    <td>2014</td>
+                    <td>B.C.A - Bachelors of Computer Applications and Engineering </td>
+                    <td>2017</td>
                     <td> 3.50 </td>
                   </tr>
                   <tr>
-                    <td>BSc. in Computer Science and Engineering</td>
-                    <td>2011</td>
+                    <td>Maters - Degree in Economics & Science </td>
+                    <td>2014</td>
                     <td> 3.25 </td>
                   </tr>
                 </tbody>
