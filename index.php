@@ -34,8 +34,8 @@
               <li><a href="#aboutUs" class="scroll-link">About Me</a></li>
               <li><a href="#service" class="scroll-link">Skills</a></li>
               <li><a href="#Portfolio" class="scroll-link">Projects</a></li>
-              <!-- <li><a href="#team" class="scroll-link">Testimonial</a></li> -->
               <li><a href="#clients" class="scroll-link">Social-Networks</a></li>
+              <li><a href="resume.php" class="scroll-link">Resume</a></li>
               <li><a href="contact.php" class="scroll-link">Contact</a></li>
             </ul>
           </div>
@@ -61,6 +61,11 @@
 
                 <div class="underline"></div>
                 <a href="#aboutUs" class="read_more2">Who Am I</a>
+                 <!-- arrow social -->
+        <div class="arrow bounce bounceIn wow delay-02s" style="margin-top: 75px;">
+          <a class="fa fa-arrow-down fa-2x scroll-link" href="#aboutUs" style="color: #ffffff;"></a>
+        </div>
+        <!-- end arrow social -->
               </div>
             </div>
           </div>
